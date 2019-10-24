@@ -73,5 +73,5 @@ set -g mode-bg colour130
 set -g mode-fg colour232
 
 # Window color
-set -g window-style 'fg=white,bg=colour238'
-set -g window-active-style 'fg=colour252,bg=black'
+#set -g window-style 'fg=white,bg=colour238'
+#set -g window-active-style 'fg=colour252,bg=black'
